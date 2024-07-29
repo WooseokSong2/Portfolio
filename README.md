@@ -16,3 +16,7 @@
 - [제어 가능한 텍스트 생성 모델의 레이어별 분석, 통신정보 합동학술대회, 2023.04](https://github.com/user-attachments/files/16415634/default.pdf)
 - Controllable Virtual Patient Dialogue System Leveraging LLMs, 해외 Biomedical 학회, 2024 투고 예정
 - Masked Prefix-Tuning for Dialogue System, 해외 자연어 처리 학회, 2024 투고 예정
+
+------------------------------------------------------------------------
+
+[송우석 GitHub 계정](https://github.com/Songwooseok123)
