@@ -1,7 +1,7 @@
 # Portfolio
 **밑의 pdf는 석사 과정 중 게재한 논문과 연구한 내용을 정리한 자료입니다.** 
   
-[석사 전공 연구 포트폴리오.pdf](https://github.com/user-attachments/files/16413938/default.pdf)
+[석사 전공 연구 포트폴리오.pdf](https://github.com/user-attachments/files/16442551/default.pdf)
 
 ------------------------------------------------------------------------
 
