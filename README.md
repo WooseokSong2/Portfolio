@@ -1,10 +1,17 @@
 # Portfolio
-**밑의 pdf는 석사 과정 중 게재한 논문과 연구한 내용을 정리한 자료입니다.** 
-  
+## 경력기술서
+**밑의 pdf는 아이팩토리 근무중 개발했던 서비스를 정리한 자료입니다.** 
+
 [석사 전공 연구 포트폴리오.pdf](https://github.com/user-attachments/files/16442551/default.pdf)
+
 
 ------------------------------------------------------------------------
 
+
+## 석사 전공 연구 소개서
+**밑의 pdf는 석사 과정 중 게재한 논문과 연구한 내용을 정리한 자료입니다.** 
+  
+[석사 전공 연구 포트폴리오.pdf](https://github.com/user-attachments/files/16442551/default.pdf)
 
 
 ### 논문 링크
@@ -18,5 +25,6 @@
 - Masked Prefix-Tuning for Dialogue System, 해외 자연어 처리 학회, 2024 투고 예정
 
 ------------------------------------------------------------------------
+
 
 [송우석 GitHub 계정](https://github.com/Songwooseok123)
