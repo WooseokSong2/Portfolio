@@ -1,5 +1,5 @@
 # Portfolio
-## 경력기술서
+## 아이팩토리 경력기술서
 **밑의 pdf는 아이팩토리 근무중 개발했던 서비스를 정리한 자료입니다.** 
 
 [석사 전공 연구 포트폴리오.pdf](https://github.com/user-attachments/files/16442551/default.pdf)
