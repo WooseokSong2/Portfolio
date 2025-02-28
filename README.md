@@ -1,5 +1,5 @@
 # Portfolio
-## 1. 아이팩토리 경력기술서
+## 1. (주)아이팩토리 경력기술서
 **밑의 pdf는 아이팩토리 근무중 개발했던 서비스를 정리한 자료입니다.** 
 - [변리사를 위한 특허 명세서 작성 AI 서비스 개발.pdf](https://github.com/user-attachments/files/19018277/AI.pdf)
 - [K사 고객센터 질의 응답 시스템 구축.pdf](https://github.com/user-attachments/files/19018276/K.pdf)
