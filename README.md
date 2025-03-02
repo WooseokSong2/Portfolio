@@ -1,5 +1,5 @@
 [송우석 GitHub 본계정 링크](https://github.com/Songwooseok123)
-
+[공부 저장소](https://github.com/Songwooseok123/Study_Space/wiki)
 # Portfolio
 ## 1. (주)아이팩토리 경력기술서
 **밑의 pdf는 아이팩토리 근무중 개발했던 서비스를 정리한 자료입니다.** 
